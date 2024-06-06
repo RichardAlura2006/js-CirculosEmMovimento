@@ -3,7 +3,7 @@ let PosiçãoHorizontal; //x
 let PosiçãoVertical; //y
 
 function setup() {
-  createCanvas(1366, 768);
+  createCanvas(600, 400);
   background(color(100, 0 , 0));
   cor = color(random(0, 255), random(0, 255), random(0, 255));
   PosiçãoHorizontal = 200;
